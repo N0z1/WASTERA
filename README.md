@@ -20,6 +20,3 @@ This project is currently in the prototype phase, with planned updates to introd
 1. Run `npm install`
 2. Run `npm run dev`
 
----
-
-Feel free to tweak the formatting to match your style! I kept it clean and easy to read so anyone viewing the repository can quickly understand your project. Let me know if you'd like any changes! 🚀
